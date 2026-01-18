@@ -5,9 +5,9 @@ I enjoy building tools that solve real problems — from robotics infrastructure
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Programming Since](https://img.shields.io/badge/Coding-Since%202020-orange)
-![Learning Robotics Since](https://img.shields.io/badge/Programming-Learning%20Robotics%20Since%202018-blue)
+![Learning Robotics Since](https://img.shields.io/badge/Robotics-Since%202016-yellow)
 
-[![FRC 3527](https://img.shields.io/badge/FRC%203526-Team%20Repository-purple?logo=github)](https://github.com/Balam-Robotics)
+[![FRC 3527](https://img.shields.io/badge/FRC%203527-Team%20Repository-purple?logo=github)](https://github.com/Balam-Robotics)
 [![Robot Code](https://img.shields.io/badge/Robot-Code%20Repository-red?logo=github)](https://github.com/Balam-Robotics/SwerveBalam)
 
 
