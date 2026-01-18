@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Ola, soy Gerardo
 
-<!--
-**jerryOriginE/jerryOriginE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a programmer and robotics student with a strong interest in **systems programming, game engines, and backend development**.  
+I enjoy building tools that solve real problems — from robotics infrastructure to custom engines and TUIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work
+
+I’m currently working on a **Python-based TUI** for my robotics team’s **private server**, which acts as the backend and database for our **team management website**.
+
+This project focuses on:
+- Server-side tooling
+- Database interaction
+- Terminal-based user interfaces
+- Potential of real-world usage by a competitive robotics team
+
+---
+
+## 🧩 Projects
+
+### 🛠️ AztlanEngine
+A **custom C++ game engine** designed for a Visual Novel I am developing.  
+Focused on learning engine architecture, rendering pipelines, and tooling.
+
+**Tech:** C++, Git
+
+---
+
+### 🌐 Balam-Server
+A full-stack **FRC team website** that functions as both:
+- A team management tool  
+- A lab inventory system
+
+Used actively by the team.
+
+**Tech:** React, JavaScript, PostgreSQL, Node.js
+
+---
+
+### 🖥️ Imperial-Terminal
+A small **TUI-based game** set in the same lore as my Visual Novel.  
+Built as a side project to experiment with terminal UI design and narrative systems.
+
+**Tech:** Python
+
+---
+
+## 💻 Experience
+
+### 🎮 Roblox Studio Developer (since 2020)
+- Developed games and experiences in **Roblox Studio** using **Lua**
+- Focused on interactive, user-driven experiences and game mechanics
+- Gained a strong understanding of game design, scripting, and real-time systems
+
+---
+
+### 🤖 FRC Team 3526 — Head Programmer
+- Third year as part of the team
+- Lead programmer responsible for robot software
+- Work with **Java** and **WPILib**
+- Help mentor newer programmers
+- Code tested in real competition environments
+
+---
+
+## 🧠 What I’m Learning
+
+- Linux ecosystem (daily driving **Arch Linux**)
+- Creating and maintaining **dotfiles**
+- Shell scripting & system customization
+- Low-level and systems-oriented programming
+- Backend architecture & databases
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,lua,arduino,bash,html,css,js,react,nodejs,postgres,github,neovim,arch)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryOriginE&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact / Links
+
+- GitHub: [@jerryOriginE](https://github.com/jerryOriginE)
+- Team Website: [BALAM Server](https://balamserver.top/)
+- Portfolio / Devlog: Under development
+
+---
+
+> La vida es una
