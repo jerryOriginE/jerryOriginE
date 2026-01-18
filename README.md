@@ -4,7 +4,7 @@ I’m a programmer and robotics student with a strong interest in **systems prog
 I enjoy building tools that solve real problems — from robotics infrastructure to custom engines and TUIs.
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Programming Since](https://img.shields.io/badge/Coding-Since%202020-orange)
+![Programming Since](https://img.shields.io/badge/Programming-Since%202020-orange)
 ![Learning Robotics Since](https://img.shields.io/badge/Robotics-Since%202016-yellow)
 
 [![FRC 3527](https://img.shields.io/badge/FRC%203527-Team%20Repository-purple?logo=github)](https://github.com/Balam-Robotics)
@@ -63,7 +63,7 @@ Built as a side project to experiment with terminal UI design and narrative syst
 
 ---
 
-### 🤖 FRC Team 3526 — Head Programmer
+### 🤖 FRC Team 3527 — Head Programmer
 - Third year as part of the team
 - Lead programmer responsible for robot software
 - Work with **Java** and **WPILib**
